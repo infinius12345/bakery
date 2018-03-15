@@ -1,0 +1,30 @@
+[
+  {
+    "id": "lc",
+    "src": "lemon_cheescake.jpg",
+    "description":"Traditional lemon bake cheese cake with a thin layer of lemon cream cheese mousse",
+    "label":"Lemon Baked Cheesecake",
+    "price":5
+  },
+  {
+    "id": "mb",
+    "src": "macrons.jpg",
+    "description":"Let's be 100% macarons! Assortment of our signature macarons (Salted Caramel, Chocolate, Rose, Orange Zest)",
+    "label":"Macaron Box",
+    "price":15
+  },
+  {
+    "id": "qlp",
+    "src": "QuincheLorraineProduct1.jpg",
+    "description":"Our favourite traditional quiche that combines succulent French ham with aged white cheddar and gruyère.",
+    "label":"Quiche Lorraine",
+    "price": 10
+  },
+  {
+    "id": "mtp",
+    "src": "Macaron_Tower_Product.jpg",
+    "description":"Our store favourite, in tower form!",
+    "label":"Macaron Tower",
+    "price": 35
+  }
+]
