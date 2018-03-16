@@ -13,7 +13,7 @@ export class Navigation extends React.Component {
                 <Navbar>
                     <Navbar.Header>
                         <Navbar.Brand>
-                            <a onClick={e => this.props.navProduct()}>Bakery</a>
+                            <a onClick={e => this.props.navProduct()}>Personalyze-Bakery</a>
                         </Navbar.Brand>
                     </Navbar.Header>
                     <Nav>
